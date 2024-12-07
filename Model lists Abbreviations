@@ -1,4 +1,4 @@
-HighResMIP
+Selected HighResMIP models
 1.	IFS-SST - Integrated Forecast System with Sea Surface Temperature (by ECMWF)
 2.	CMCC-SST - Centro Euro-Mediterraneo per i Cambiamenti Climatici Sea Surface Temperature model
 3.	MRI-H-SST - Meteorological Research Institute High-resolution model with Sea Surface Temperature (by Japan Meteorological Agency)
@@ -9,17 +9,19 @@ Coupled models
  7. IFS-Control - Integrated Forecast System Control simulation (by ECMWF)
  8. CMCC-hist - Centro Euro-Mediterraneo per i Cambiamenti Climatici Historical model 
  9. HiRAM-hist - High-resolution Atmospheric Model Historical simulation 
-CMIP6
-CM2_250: Geophysical Fluid Dynamics Laboratory CM2 model at 250 km resolution.
-MPI-LR_250: Max Planck Institute Earth System Model - Low Resolution (250 km grid spacing).
-BCC_250: Beijing Climate Center model at 250 km resolution.
-NESM_250: Nanjing University of Information Science and Technology Earth System Model at 250 km resolution.
-FOG_250: Likely a regional or specific experimental model at 250 km resolution (specificity unclear without additional details).
-NOR_250: Norwegian Earth System Model (NorESM) at 250 km resolution.
-ICO_250: ICON (Icosahedral Nonhydrostatic Model) with 250 km grid spacing.
-AWI_250: Alfred Wegener Institute Earth System Model at 250 km resolution.
-IPS_250: Institut Pierre-Simon Laplace (IPSL) Climate Model at 250 km resolution.
-CES_250: Community Earth System Model at 250 km resolution.
-KAC_250: Possibly a specific experiment or regional model associated with CMIP6 at 250 km resolution.
-ITM_250: Potentially an Italian Meteorological or related CMIP6 model at 250 km resolution.
-MIR_250: Model for Interdisciplinary Research on Climate (MIROC) Earth System Model at 250 km resolution.
+
+Selected CMIP6 models
+CM2_250: GFDL-CM2 (Geophysical Fluid Dynamics Laboratory Climate Model version 4) at 250 km resolution.
+MPI-LR_250: MPI-ESM1.2-LR (Max Planck Institute Earth System Model version 1.2 - Low Resolution) at 250 km resolution.
+BCC_250: BCC-CSM2-LR (Beijing Climate Center Climate System Model version 2 - Medium Resolution) at 250 km resolution.
+NESM_250: NESM3 (Nanjing University of Information Science and Technology Earth System Model version 3) at 250 km resolution.
+FOG_250: FGOALS-f3-L (Flexible Global Ocean-Atmosphere-Land System model version f3 - Low resolution) at 250 km resolution.
+NOR_250: NorESM2-LM (Norwegian Earth System Model version 2 - Low-Medium resolution) at 250 km resolution.
+ICO_250: ICON-ESM-LR (Icosahedral Nonhydrostatic Earth System Model - Low Resolution) at 250 km resolution.
+AWI_250: AWI-CM-1-1-MR (Alfred Wegener Institute Climate Model version 1.1 - Medium Resolution) at 250 km resolution.
+IPS_250: IPSL-CM6A-LR (Institut Pierre-Simon Laplace Climate Model version 6A - Low Resolution) at 250 km resolution.
+CES_250: CESM2 (Community Earth System Model version 2) at 250 km resolution.
+KAC_250: KACE-1.0-G (Korean Meteorological Administration Climate Ensemble version 1.0 - Global) at 250 km resolution.
+ITM_250: IITM-ESM (Indian Institute of Tropical Meteorology Earth System Model) at 250 km resolution.
+MIR_250: MIROC6 (Model for Interdisciplinary Research on Climate version 6) at 250 km resolution.
+
