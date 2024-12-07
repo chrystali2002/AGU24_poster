@@ -1,14 +1,14 @@
 Selected HighResMIP models
-1.	IFS-SST - Integrated Forecast System with Sea Surface Temperature (by ECMWF)
-2.	CMCC-SST - Centro Euro-Mediterraneo per i Cambiamenti Climatici Sea Surface Temperature model
-3.	MRI-H-SST - Meteorological Research Institute High-resolution model with Sea Surface Temperature (by Japan Meteorological Agency)
-4.	MRI-S-SST - Meteorological Research Institute Standard model with Sea Surface Temperature (by Japan Meteorological Agency)
-5.	HiRAM-SST - High-resolution Atmospheric Model (by NOAA with Sea Surface Temperature)
+1.	IFS-SST:  ECMWF-IFS-HR - Integrated Forecast System with Sea Surface Temperature (by ECMWF)
+2.	CMCC-SST: CMCC-CM2-HR4 - Centro Euro-Mediterraneo per i Cambiamenti Climatici Sea Surface Temperature model
+3.	MRI-H-SST:MRI-AGCM3-2-H - Meteorological Research Institute High-resolution model with prescribed Sea Surface Temperature (by Japan Meteorological Agency)
+4.	MRI-S-SST: MRI-AGCM3-2-S - Meteorological Research Institute Standard model with prescribed Sea Surface Temperature (by Japan Meteorological Agency)
+5.	HiRAM-SST:  NOAA-GFDL-HiRAM - High-resolution Atmospheric Model by NOAA (High-resolution atmospheric model with prescribed sea surface temperatures)
 Coupled models
- 6. IFS-hist - Integrated Forecast System Historical model (by ECMWF)
- 7. IFS-Control - Integrated Forecast System Control simulation (by ECMWF)
- 8. CMCC-hist - Centro Euro-Mediterraneo per i Cambiamenti Climatici Historical model 
- 9. HiRAM-hist - High-resolution Atmospheric Model Historical simulation 
+ 6. IFS-hist:  ECMWF-IFS-HR - Integrated Forecast System Historical model (by ECMWF)
+ 7. IFS-Control:  ECMWF-IFS-HR-control-1950 - Integrated Forecast System Control simulation by ECMWF ( Long-term pre-industrial control simulation using the high-resolution coupled Integrated Forecast System)
+ 8. CMCC-hist: CMCC-CM2-HR4 - Centro Euro-Mediterraneo per i Cambiamenti Climatici Historical model (Historical coupled simulation from CMCC's high-resolution climate model.) 
+ 9. HiRAM-hist: NOAA-GFDL-HiRAM - High-resolution Atmospheric Model Historical simulation 
 
 Selected CMIP6 models
 CM2_250: GFDL-CM2 (Geophysical Fluid Dynamics Laboratory Climate Model version 4) at 250 km resolution.
